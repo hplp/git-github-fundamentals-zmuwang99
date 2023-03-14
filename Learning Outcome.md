@@ -1,4 +1,4 @@
-## Leanrning outcome
+## Learning outcome
 
 This following section describe my learning outcome:
 
